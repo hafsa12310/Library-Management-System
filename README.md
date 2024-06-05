@@ -1,2 +1,2 @@
-URL to the documentation of the API Endoints using Postman.
-https://documenter.getpostman.com/view/36015273/2sA3QzaTwz
+Usage
+You can use tools like Postman to test the API endpoints. Refer to the https://documenter.getpostman.com/view/36015273/2sA3QzaTwz for detailed information on each endpoint.
