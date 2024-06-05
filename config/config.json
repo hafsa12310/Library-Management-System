@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "library_user",
+      "password": "postgres",
+      "database": "library_db",
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "library_user",
+      "password": "postgres",
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "library_user",
+      "password": "postgres",
+      "database": "database_production",
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dialect": "postgres"
+    }
+  }
+  
